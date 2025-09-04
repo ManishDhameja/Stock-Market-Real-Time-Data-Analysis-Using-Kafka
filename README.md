@@ -30,4 +30,4 @@ The project is an End-To-End Data Engineering Project on Real-Time Stock Market 
 
 
 ## Dataset Used
-Here is the dataset used - https://github.com/ManishDhameja/stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv
+Here is the dataset used - https://github.com/ManishDhameja/Stock-Market-Real-Time-Data-Analysis-Using-Kafka/blob/main/indexProcessed.csv
